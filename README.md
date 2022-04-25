@@ -34,6 +34,7 @@
 
 ```
 <!-- BLOG-POST-LIST:START -->
+- [My First Dev Blog Post](https://dev.to/pgbnguyen/my-first-dev-blog-post-31ab)
 <!-- BLOG-POST-LIST:END -->
 
 ```
