@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bao</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+- 🔭 I’m currently working on [Construction Monitoring Website](http://caurongvang.vn/)
+
+- 🌱 I’m currently learning **ASP.NET and C#**
+
+- 👨‍💻 All of my projects are available at [pgbnguyen.com](pgbnguyen.com)
+
+- 📫 How to reach me **pgbnguyen@gmail.com**
+
+- ⚡ Fun fact **I do powerlifting part-time and lifting up project full-time**
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgbnguyen&show_icons=true&locale=en&layout=compact" alt="pgbnguyen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgbnguyen&show_icons=true&locale=en" alt="pgbnguyen" /></p>
@@ -12,16 +22,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgbnguyen" alt="pgbnguyen" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pgbnguyen" target="blank"><img src="https://img.shields.io/twitter/follow/pgbnguyen?logo=twitter&style=for-the-badge" alt="pgbnguyen" /></a> </p>
-
-- 🔭 I’m currently working on [Construction Monitoring Website](http://caurongvang.vn/)
-
-- 🌱 I’m currently learning **ASP.NET and C#**
-
-- 👨‍💻 All of my projects are available at [pgbnguyen.com](pgbnguyen.com)
-
-- 📫 How to reach me **pgbnguyen@gmail.com**
-
-- ⚡ Fun fact **I do powerlifting part-time and lifting up project full-time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
