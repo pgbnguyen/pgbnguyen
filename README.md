@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, My name is Bao</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Construction Monitoring Website](http://caurongvang.vn/)
+- 🔭 I’m currently working on [Construction Monitoring Website](http://caurong.quantraccongtrinh.com.vn/)
 
 - 🌱 I’m currently learning **ASP.NET and C#**
 
-- 👨‍💻 All of my projects are available at [pgbnguyen.com](pgbnguyen.com)
+- 👨‍💻 All of my projects are available at [pgbnguyen.com](https://www.pgbnguyen.com/)
 
 - 📫 How to reach me **pgbnguyen@gmail.com**
 
